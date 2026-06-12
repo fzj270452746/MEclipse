@@ -1,0 +1,30 @@
+PODS:
+  - Adjust (5.6.2):
+    - Adjust/Adjust (= 5.6.2)
+  - Adjust/Adjust (5.6.2):
+    - AdjustSignature (= 3.67.0)
+  - AdjustSignature (3.67.0)
+  - Alamofire (5.11.2)
+  - AnimatedCollectionViewLayout (1.1.0)
+
+DEPENDENCIES:
+  - Adjust
+  - Alamofire
+  - AnimatedCollectionViewLayout
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - AdjustSignature
+    - Alamofire
+    - AnimatedCollectionViewLayout
+
+SPEC CHECKSUMS:
+  Adjust: 62ea53a252534df416676e7ac2f1558d60e6e39e
+  AdjustSignature: 9498705a4ac67b719e31828be4d74fbb8656950c
+  Alamofire: 400275dd1c6d87d95a041861d2a59da4b520a203
+  AnimatedCollectionViewLayout: 0c1a38c4be115c525c887be183fc91ef65737c5d
+
+PODFILE CHECKSUM: 03e206655ce3c4f2256c8af794383191edd0977e
+
+COCOAPODS: 1.16.2
